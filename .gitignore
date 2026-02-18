@@ -28,6 +28,7 @@ Thumbs.db
 *.json
 *.yml
 !umbrel-app.yml
+!umbrel-app-store.yml
 *.log
 
 # Testing
